@@ -95,3 +95,34 @@ color: red;
 	bottom: 50px;
 }
 
+@media screen and (max-width: 980px){
+    body {
+        background-color: #dddddd;
+        margin: 0px;
+            padding: 0px;}
+            .wrapper {
+                width: 100%;
+                padding: 20px;
+              }
+
+}
+@media screen and (max-width: 768px) {
+    body {
+        background-color: #dddddd;
+        margin: 0px;
+            padding: 0px;}
+            .wrapper {
+                width: 100%;
+                padding: 20px;
+              }
+}
+@media screen and (max-width: 640px) {
+    body {
+        background-color: #dddddd;
+        margin: 0px;
+            padding: 0px;}
+            .wrapper {
+                width: 100%;
+                padding: 20px;
+              }
+}
